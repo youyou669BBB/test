@@ -23,4 +23,4 @@ class Validateur {
     } //end check()
 } //end class
 
-// This is a comment on a single lines.
+// This is a comment on a single line.
